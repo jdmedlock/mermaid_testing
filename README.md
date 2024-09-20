@@ -25,9 +25,12 @@ Test Mermaid Diagrams
       columns 1
       SPRINT1("Sprint 1")
       space
+      space
       SPRINT2("Sprint 2")
       space
+      space
       SPRINT35("Sprints 3-5")
+      space
       space
       SPRINT6("Sprint 6")
     end
