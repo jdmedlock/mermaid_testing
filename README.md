@@ -26,6 +26,9 @@ Test Mermaid Diagrams
       columns 1
       space
       space
+      space
+      space
+      space
       SPRINT1("Sprint 1")
       space
       space
