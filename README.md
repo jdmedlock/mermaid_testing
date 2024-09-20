@@ -21,22 +21,22 @@ Test Mermaid Diagrams
       space
       space
       space
-      SPRINT1("&nbsp;&nbsp;Sprint 1&nbsp;&nbsp;")
+      SPRINT1("Sprint 1&nbsp;")
       space
       space
       space
       space
       space
       space
-      SPRINT2("&nbsp;Sprint 2&nbsp;")
+      SPRINT2("Sprint 2")
       space
       space
       space
       space
-      SPRINT35("&nbsp;Sprints 3-5&nbsp;")
+      SPRINT35("Sprints 3-5")
       space
       space
-      SPRINT6("&nbsp;Sprint 6&nbsp;")
+      SPRINT6("Sprint 6")
       space
     end
     
