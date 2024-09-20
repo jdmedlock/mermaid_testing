@@ -8,9 +8,7 @@ Test Mermaid Diagrams
       columns 1
       A1(("&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
       space
-      space
       A2(("&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-      space
       space
       A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       space
@@ -18,7 +16,6 @@ Test Mermaid Diagrams
       space
       space
       A8(("&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
-      space
       A10(("&nbsp;&nbsp; 10 &nbsp;&nbsp;"))
     end
     
