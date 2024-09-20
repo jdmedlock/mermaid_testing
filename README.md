@@ -7,13 +7,9 @@ Test Mermaid Diagrams
     block:LEFT:4
       columns 1
       A1(("&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
-      space
       A2(("&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-      space
       A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       A6(("&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
-      space
-      space
       A8(("&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
       A10(("&nbsp;&nbsp; 10 &nbsp;&nbsp;"))
     end
