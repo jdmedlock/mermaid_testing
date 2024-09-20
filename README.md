@@ -25,6 +25,7 @@ Test Mermaid Diagrams
     block:CENTER:1
       columns 1
       space
+      space
       SPRINT1("Sprint 1")
       space
       space
