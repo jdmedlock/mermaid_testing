@@ -49,7 +49,6 @@ Test Mermaid Diagrams
     block:RIGHT:4
       columns 1
       A4(("&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
-      space
       A5(("&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       A7(("&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       A9(("&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
