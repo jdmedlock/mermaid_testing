@@ -37,6 +37,7 @@ Test Mermaid Diagrams
       space
       space
       SPRINT6("Sprint 6")
+      space
     end
     
     block:RIGHT:4
@@ -51,6 +52,7 @@ Test Mermaid Diagrams
     end
 
     SPRINT1 --> SPRINT2
+    SPRINT2 --> SPRINT35
     SPRINT35 --> SPRINT6
 
     A1 -- "Meet team &</br>schedule Kickoff" --> SPRINT1
