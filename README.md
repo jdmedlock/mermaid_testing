@@ -6,20 +6,20 @@ Test Mermaid Diagrams
     columns 9
     block:LEFT:4
       columns 1
-      A1(("&nbsp;1&nbsp;"))
+      A1(("&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
       space
       space
-      A2((" 2 "))
+      A2(("&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
       space
       space
-      A3((" 3 "))
+      A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       space
-      A6((" 6 "))
+      A6(("&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
       space
       space
-      A8((" 8 "))
+      A8(("&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
       space
-      A10((" 10"))
+      A10(("&nbsp;&nbsp; 10 &nbsp;&nbsp;"))
     end
     
     block:CENTER:1
@@ -50,13 +50,13 @@ Test Mermaid Diagrams
     
     block:RIGHT:4
       columns 1
-      A4(("4"))
+      A4(("&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
       space
-      A5(("5"))
+      A5(("&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       space
-      A7(("7"))
+      A7(("&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       space
-      A9(("9"))
+      A9(("&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
     end
 
     SPRINT1 --> SPRINT2
