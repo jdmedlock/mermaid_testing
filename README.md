@@ -60,5 +60,15 @@ Test Mermaid Diagrams
     A9 ----> SPRINT35
     A10 ----> SPRINT6
 
-    style A1 fill:#28b463
+    style A1 fill:#239b56
+    style A2 fill:#239b56
+    style A3 fill:#239b56
+    style A4 fill:#239b56
+    style A5 fill:#239b56
+    style A6 fill:#239b56
+    style A7 fill:#239b56
+    style A8 fill:#239b56
+    style A9 fill:#239b56
+    style A10 fill:#239b56
+
 ```
