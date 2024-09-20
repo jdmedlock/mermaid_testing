@@ -14,8 +14,6 @@ Test Mermaid Diagrams
       space
       A6(("6"))
       space
-      A7(("7"))
-      space
       A8(("8"))
       space
       A10(("10"))
@@ -42,6 +40,8 @@ Test Mermaid Diagrams
       A4(("4"))
       space
       A5(("5"))
+      space
+      A7(("7"))
       space
       A9(("9"))
     end
