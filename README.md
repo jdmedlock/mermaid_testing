@@ -21,7 +21,7 @@ Test Mermaid Diagrams
       space
       space
       space
-      SPRINT1("&nbsp;Sprint 1&nbsp;")
+      SPRINT1("&nbsp;&nbsp;Sprint 1&nbsp;&nbsp;")
       space
       space
       space
