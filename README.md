@@ -6,20 +6,20 @@ Test Mermaid Diagrams
     columns 9
     block:LEFT:4
       columns 1
-      A1(("1"))
+      A1((" 1 "))
       space
       space
-      A2(("2"))
+      A2((" 2 "))
       space
       space
-      A3(("3"))
+      A3((" 3 "))
       space
-      A6(("6"))
+      A6((" 6 "))
       space
       space
-      A8(("8"))
+      A8((" 8 "))
       space
-      A10(("10"))
+      A10((" 10"))
     end
     
     block:CENTER:1
