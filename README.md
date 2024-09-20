@@ -8,11 +8,14 @@ Test Mermaid Diagrams
       columns 1
       A1(("1"))
       space
+      space
       A2(("2"))
+      space
       space
       A3(("3"))
       space
       A6(("6"))
+      space
       space
       A8(("8"))
       space
