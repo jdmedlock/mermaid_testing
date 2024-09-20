@@ -28,7 +28,7 @@ Test Mermaid Diagrams
       A5(("5"))
       A9(("9"))
     end
-    A1 -- Meet team & schedule Kickoff --> SPRINT1
+    A1 -- "Meet team & schedule Kickoff" --> SPRINT1
     A2 ----> SPRINT1
     A3 ----> SPRINT1
     A4 ----> SPRINT1
