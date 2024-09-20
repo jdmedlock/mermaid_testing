@@ -7,11 +7,17 @@ Test Mermaid Diagrams
     block:LEFT
       columns 1
       A1(("1"))
+      space
       A2(("2"))
+      space
       A3(("3"))
+      space
       A6(("6"))
+      space
       A7(("7"))
+      space
       A8(("8"))
+      space
       A10(("10"))
     end
     
@@ -29,7 +35,9 @@ Test Mermaid Diagrams
     block:RIGHT
       columns 1
       A4(("4"))
+      space
       A5(("5"))
+      space
       A9(("9"))
     end
 
