@@ -11,7 +11,6 @@ Test Mermaid Diagrams
       A2(("&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
       space
       A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
-      space
       A6(("&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
       space
       space
