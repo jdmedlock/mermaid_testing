@@ -14,13 +14,17 @@ Test Mermaid Diagrams
       A10(("10"))
     end
     space
-    block:SPRINTS
-      SPRINT1("Sprint 1") --> SPRINT2("Sprint 2")
-      space
-      space
-      SPRINT2 --> SPRINT35("Sprints 3-5")
-      space
-      SPRINT35 --> SPRINT6("Sprint 6")
+    block:SPRINTS12
+      SPRINT1
+      SPRINT2
+    end
+    space
+    block:SPRINTS35
+      SPRINT35("Sprints 3-5")
+    end
+    space
+    block:SPRINTS6
+      SPRINT6("Sprint 6")
     end
     space
       block:ANNOTATIONSBOTTOM
@@ -28,6 +32,10 @@ Test Mermaid Diagrams
       A5(("5"))
       A9(("9"))
     end
+
+    SPRINT1 --> SPRINT2
+    SPRINT35 --> SPRINT6
+
     A1 -- "Meet team &</br>schedule Kickoff" --> SPRINT1
     A2 ----> SPRINT1
     A3 ----> SPRINT1
