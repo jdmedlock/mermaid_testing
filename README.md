@@ -63,9 +63,9 @@ Test Mermaid Diagrams
     A9 -- "Design, code,</br>test, & deploy app" --> SPRINT35
     A10 -- "Project Closure" --> SPRINT6
 
-    style LEFT fill:##d4ac0d
-    style CENTER fill:##d4ac0d
-    style RIGHT fill:##d4ac0d
+    style LEFT fill:#979a9a
+    style CENTER fill:#979a9a
+    style RIGHT fill:#979a9a
     style A1 fill:#1d8348
     style A2 fill:#1d8348
     style A3 fill:#1d8348
