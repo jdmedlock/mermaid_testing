@@ -14,7 +14,7 @@ Test Mermaid Diagrams
       A8(("8"))
       A10(("10"))
     end
-    space
+    
     block:CENTER
       columns 1
       SPRINT1("Sprint 1")
@@ -25,7 +25,7 @@ Test Mermaid Diagrams
       space
       SPRINT6("Sprint 6")
     end
-    space
+    
     block:RIGHT
       columns 1
       A4(("4"))
