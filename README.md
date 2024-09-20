@@ -6,7 +6,7 @@ Test Mermaid Diagrams
     columns 9
     block:LEFT:4
       columns 1
-      A1((" 1 "))
+      A1(("&nbsp;1&nbsp;"))
       space
       space
       A2((" 2 "))
