@@ -15,12 +15,12 @@ Test Mermaid Diagrams
     end
     space
     block:SPRINTS
-      SPRINT1("Sprint 1") ----> SPRINT2("Sprint 2")
+      SPRINT1("Sprint 1") --> SPRINT2("Sprint 2")
       space
       space
-      SPRINT2 ----> SPRINT35("Sprints 3-5")
+      SPRINT2 --> SPRINT35("Sprints 3-5")
       space
-      SPRINT35 ----> SPRINT6("Sprint 6")
+      SPRINT35 --> SPRINT6("Sprint 6")
     end
     space
       block:ANNOTATIONSBOTTOM
