@@ -20,6 +20,8 @@ Test Mermaid Diagrams
     block:SPRINTS
       SPRINT1("Sprint 1") ----> SPRINT2("Sprint 2")
       space
+      space
+      space
       SPRINT2 ----> SPRINT35("Sprints 3-5")
       space
       SPRINT35 ----> SPRINT6("Sprint 6")
