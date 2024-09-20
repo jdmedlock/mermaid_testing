@@ -4,14 +4,14 @@ Test Mermaid Diagrams
 ```mermaid
   block-beta
     columns 1
-    block:ANNOTATIONS-TOP
-      A1("1")
-      A2("2")
-      A3("3")
-      A6("6")
-      A7("7")
-      A8("8")
-      A9("9")
+    block:ANNOTATIONSTOP
+      A1(("1"))
+      A2(("2"))
+      A3(("3"))
+      A6(("6"))
+      A7(("7"))
+      A8(("8"))
+      A10(("10"))
     end
     space
     block:SPRINTS
@@ -24,10 +24,10 @@ Test Mermaid Diagrams
       SPRINT35 ----> SPRINT6("Sprint 6")
     end
     space
-      block:ANNOTATIONS-BOTTOM
-      A4("4")
-      A5("5")
-      A10("10")
+      block:ANNOTATIONSBOTTOM
+      A4(("4"))
+      A5(("5"))
+      A9(("9"))
     end
     A1 ----> SPRINT1
     A2 ----> SPRINT1
