@@ -23,6 +23,7 @@ Test Mermaid Diagrams
     
     block:CENTER
       columns 1
+      space
       SPRINT1("Sprint 1")
       space
       space
