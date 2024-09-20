@@ -3,8 +3,8 @@ Test Mermaid Diagrams
 
 ```mermaid
   block-beta
-    columns 5
-    block:LEFT:2
+    columns 7
+    block:LEFT:3
       columns 1
       A1(("1"))
       space
@@ -37,7 +37,7 @@ Test Mermaid Diagrams
       SPRINT6("Sprint 6")
     end
     
-    block:RIGHT:2
+    block:RIGHT:3
       columns 1
       A4(("4"))
       space
