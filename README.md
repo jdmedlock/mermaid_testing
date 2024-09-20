@@ -52,7 +52,6 @@ Test Mermaid Diagrams
       space
       A5(("&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       A7(("&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
-      space
       A9(("&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
     end
 
