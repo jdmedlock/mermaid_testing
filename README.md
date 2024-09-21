@@ -183,7 +183,6 @@ config:
         A10(("&nbsp;&nbsp;10&nbsp;"))
         space
       end
-      space
       block:B4CENTER
         columns 3
         space
