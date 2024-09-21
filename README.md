@@ -6,12 +6,12 @@ Test Mermaid Diagrams
     columns 9
     block:LEFT:4
       columns 1
-      A1(("&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
-      A2(("&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-      A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
-      A6(("&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
-      A8(("&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
-      A10(("&nbsp;&nbsp; 10 &nbsp;&nbsp;"))
+      A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;&nbsp;"))
+      A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;&nbsp;"))
+      A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;&nbsp;"))
+      A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;&nbsp;"))
+      A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;&nbsp;"))
+      A10(("&nbsp;&nbsp;&nbsp; 10 &nbsp;&nbsp;&nbsp;"))
     end
     
     block:CENTER:1
@@ -43,10 +43,10 @@ Test Mermaid Diagrams
     
     block:RIGHT:4
       columns 1
-      A4(("&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
-      A5(("&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
-      A7(("&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
-      A9(("&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
+      A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;&nbsp;"))
+      A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;&nbsp;"))
+      A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;&nbsp;"))
+      A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;&nbsp;"))
     end
 
     SPRINT1 --> SPRINT2
