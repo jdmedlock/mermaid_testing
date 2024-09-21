@@ -96,7 +96,9 @@ config:
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;&nbsp;"))
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;&nbsp;"))
       end
-      SPRINT1("Sprint 1&nbsp;")
+      block:S1
+        SPRINT1("Sprint 1&nbsp;")
+      end
       A1 ----> SPRINT1
       A2 ----> SPRINT1
       A3 ----> SPRINT1
