@@ -108,6 +108,7 @@ config:
         A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       end
       space
+      space
       block:B1CENTER
         columns 3
         space
@@ -137,6 +138,7 @@ config:
         A7(("&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end
       space
+      space
       block:B2CENTER
         columns 3
         space
@@ -164,6 +166,7 @@ config:
         space
       end
       space
+      space
       block:B3CENTER
         columns 3
         space
@@ -182,6 +185,7 @@ config:
         A10(("&nbsp;&nbsp;10&nbsp;"))
         space
       end
+      space
       space
       block:B4CENTER
         columns 3
