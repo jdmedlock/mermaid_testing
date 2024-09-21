@@ -116,6 +116,7 @@ config:
         space
       end
       space
+      space
       block:B1BOTTOM
         columns 3
         A4(("&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
@@ -146,6 +147,7 @@ config:
         space
       end
       space
+      space
       block:B2BOTTOM
         columns 3
         space
@@ -174,6 +176,7 @@ config:
         space
       end
       space
+      space
       A9 -- "Design, code, test & deploy" --> SPRINTS35
     end
 
@@ -193,6 +196,7 @@ config:
         SPRINT6("&nbsp;Sprint 6&nbsp;")
         space
       end
+      space
       space
       A10 -- "Project Closure" --> SPRINT6
     end
