@@ -136,7 +136,6 @@ config:
       block:B3CENTER
         SPRINTS35("Sprint 3-5")
       end
-      space
 
       A9 ----> SPRINTS35
     end
@@ -149,7 +148,6 @@ config:
       block:B3CENTER
         SPRINT6("Sprint 6")
       end
-      space
 
       A10 ----> SPRINT6
     end
