@@ -129,11 +129,29 @@ config:
     end
 
     block:B3:1
-      SPRINT35("Sprints 3-5")
+      columns 1
+      block:B3TOP
+        A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;&nbsp;"))
+      end
+      block:B3CENTER
+        SPRINTS35("Sprint 3-5")
+      end
+      space
+
+      A9 ----> SPRINTS35
     end
 
     block:B4:1
-      SPRINT6("Sprint 6")
+      columns 1
+      block:B3TOP
+        A10(("&nbsp;&nbsp;&nbsp; 10 &nbsp;&nbsp;&nbsp;"))
+      end
+      block:B3CENTER
+        SPRINT6("Sprint 6")
+      end
+      space
+
+      A10 ----> SPRINT6
     end
 
     SPRINT1 --> SPRINT2
