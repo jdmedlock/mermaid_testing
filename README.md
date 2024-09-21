@@ -52,7 +52,6 @@ Test Mermaid Diagrams
     SPRINT1 --> SPRINT2
     SPRINT2 --> SPRINT35
     SPRINT35 --> SPRINT6
-
     A1 -- "Meet team &</br>schedule Kickoff" --> SPRINT1
     A2 -- "Conduct Kickoff</br>Meeting" --> SPRINT1
     A3 -- "Update team list</br>in readme.md" --> SPRINT1
@@ -77,8 +76,8 @@ Test Mermaid Diagrams
     style A8 fill:#1d8348
     style A9 fill:#1d8348
     style A10 fill:#1d8348
-    style SPRINT1 fill:#1a5276
-    style SPRINT2 fill:#1a5276
-    style SPRINT35 fill:#1a5276
-    style SPRINT6 fill:#1a5276
+    style SPRINT1 fill:#1b4f72
+    style SPRINT2 fill:#1b4f72
+    style SPRINT35 fill:#1b4f72
+    style SPRINT6 fill:#1b4f72
 ```
