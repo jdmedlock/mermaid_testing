@@ -117,6 +117,7 @@ config:
         A6(("&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
         A7(("&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end
+      space
       block:B2CENTER
         columns 3
         space
