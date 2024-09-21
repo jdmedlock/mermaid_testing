@@ -144,7 +144,6 @@ config:
         A9(("&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
       end
       space
-      space
       block:B3CENTER
         columns 3
         space
@@ -158,13 +157,14 @@ config:
     block:B4:1
       columns 1
       block:B4TOP
-        A10(("&nbsp;&nbsp;10&nbsp;&nbsp;"))
+        A10(("&nbsp;&nbsp;10&nbsp;"))
       end
       space
       block:B4CENTER
         columns 3
         space
         SPRINT6("&nbsp;Sprint 6&nbsp;")
+        space
       end
       space
       A10 ----> SPRINT6
