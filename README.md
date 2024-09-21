@@ -123,8 +123,8 @@ config:
       A1 -- "Meet team &</br>schedule</br>Kickoff" --> SPRINT1
       A2 -- "</br></br></br></br></br></br>Hold</br>Kickoff" --> SPRINT1
       A3 -- "Update</br>readme.md</br>team list" --> SPRINT1
-      A4 -- "Choose project &</br>define vision stmt." --> SPRINT1
-      A5 -- "Define &</br>prioritize features" --> SPRINT1
+      A4 -- "Choose project &</br>define</br>vision stmt." --> SPRINT1
+      A5 -- "Define &</br>prioritize</br>features" --> SPRINT1
     end
 
     block:B2:1
