@@ -81,3 +81,23 @@ Test Mermaid Diagrams
     style SPRINT35 fill:#1b4f72
     style SPRINT6 fill:#1b4f72
 ```
+
+```mermaid
+  block-beta
+    columns 4
+    block:B1:1
+      SPRINT1("Sprint 1&nbsp;")
+    end
+    block:B2:1
+      SPRINT2("Sprint 2")
+    end
+    block:B3:1
+      SPRINT35("Sprints 3-5")
+    end
+    block:B4:1
+      SPRINT6("Sprint 6")
+    end
+    SPRINT1 --> SPRINT2
+    SPRINT2 --> SPRINT35
+    SPRINT35 --> SPRINT6
+```
