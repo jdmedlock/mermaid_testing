@@ -2,6 +2,11 @@
 Test Mermaid Diagrams
 
 ```mermaid
+---
+config:
+  layout: elk
+  theme: dark
+---
   block-beta
     columns 9
     block:LEFT:4
