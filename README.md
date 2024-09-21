@@ -112,7 +112,7 @@ config:
         space
         A5(("&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       end
-      A1 ----> SPRINT1
+      A1 -- "Meet team &</br>schedule</br>Kickoff mtg.--> SPRINT1
       A2 ----> SPRINT1
       A3 ----> SPRINT1
       A4 ----> SPRINT1
@@ -189,6 +189,4 @@ config:
     SPRINT1 --> SPRINT2
     SPRINT2 --> SPRINTS35
     SPRINTS35 --> SPRINT6
-
-    style B1TOP fill:lightgrey
 ```
