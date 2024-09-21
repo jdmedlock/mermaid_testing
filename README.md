@@ -119,7 +119,7 @@ config:
       end
       block:B2CENTER
         space
-        SPRINT2("&nbsp;&nbsp; Sprint 2 &nbsp;&nbsp;")
+        SPRINT2("Sprint 2")
       end
       block:B2BOTTOM
         A8(("&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
