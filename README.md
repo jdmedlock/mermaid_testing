@@ -137,6 +137,7 @@ config:
         SPRINTS35("Sprint 3-5")
       end
       block:B3BOTTOM
+        &nbsp;
       end
 
       A9 ----> SPRINTS35
@@ -151,6 +152,7 @@ config:
         SPRINT6("Sprint 6")
       end
       block:B4BOTTOM
+        &nbsp;
       end
 
       A10 ----> SPRINT6
