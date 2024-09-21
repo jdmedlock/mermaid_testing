@@ -118,7 +118,7 @@ config:
         A7(("&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end
       block:B2CENTER
-        SPRINT2("&nbsp;&nbsp; Sprint 2 &nbsp;&nbsp;")
+        SPRINT2("&nbsp;&nbsp;&nbsp;&nbsp; Sprint 2 &nbsp;&nbsp;&nbsp;&nbsp;")
       end
       block:B2BOTTOM
         A8(("&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
