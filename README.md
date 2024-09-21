@@ -148,7 +148,7 @@ config:
       block:B3CENTER
         columns 3
         space
-        SPRINTS35("Sprint 3-5")
+        SPRINTS35("Sprints 3-5")
         space
       end
       space
@@ -158,7 +158,7 @@ config:
     block:B4:1
       columns 1
       block:B4TOP
-        A10(("&nbsp;&nbsp;10&nbsp;"))
+        A10(("&nbsp;&nbsp;10&nbsp;&nbsp;"))
       end
       space
       block:B4CENTER
