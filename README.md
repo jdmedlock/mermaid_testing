@@ -81,10 +81,10 @@ config:
     style A8 fill:#1d8348
     style A9 fill:#1d8348
     style A10 fill:#1d8348
-    style SPRINT1 fill:#1b4f72
-    style SPRINT2 fill:#1b4f72
-    style SPRINT35 fill:#1b4f72
-    style SPRINT6 fill:#1b4f72
+    style SPRINT1 fill:#b9770e
+    style SPRINT2 fill:#b9770e
+    style SPRINT35 fill:#b9770e
+    style SPRINT6 fill:#b9770e
 ```
 
 ```mermaid
