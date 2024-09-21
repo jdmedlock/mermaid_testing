@@ -99,6 +99,7 @@ config:
         A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       end
       space
+      space
       block:B1CENTER
         columns 3
         space
@@ -125,6 +126,7 @@ config:
         A6(("&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
         A7(("&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end
+      space
       space
       block:B2CENTER
         columns 3
