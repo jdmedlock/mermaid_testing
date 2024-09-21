@@ -144,6 +144,7 @@ config:
         A9(("&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
       end
       space
+      space
       block:B3CENTER
         columns 3
         space
