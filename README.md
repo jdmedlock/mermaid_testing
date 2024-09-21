@@ -108,9 +108,9 @@ config:
         A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       end
       space
+      space
       block:B1CENTER
         columns 3
-        space
         space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
         space
