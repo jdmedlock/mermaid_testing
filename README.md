@@ -157,8 +157,9 @@ config:
     block:B4:1
       columns 1
       block:B4TOP
-        A10(("&nbsp;10&nbsp;"))
+        A10(("&nbsp;&nbsp;10&nbsp;"))
       end
+      space
       block:B4CENTER
         columns 3
         SPRINT6("Sprint 6")
