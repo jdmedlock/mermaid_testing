@@ -107,6 +107,7 @@ config:
         A2(("&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
         A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       end
+      space
       block:B1CENTER
         columns 3
         space
