@@ -108,14 +108,12 @@ config:
         A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       end
       space
-      space
       block:B1CENTER
         columns 3
         space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
         space
       end
-      space
       space
       block:B1BOTTOM
         columns 3
@@ -166,14 +164,12 @@ config:
         space
       end
       space
-      space
       block:B3CENTER
         columns 3
         space
         SPRINTS35("&nbsp;Sprints 3-5&nbsp;")
         space
       end
-      space
       space
       A9 -- "Design, code, test & deploy" --> SPRINTS35
     end
