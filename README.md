@@ -1,6 +1,8 @@
 # mermaid_testing
 Test Mermaid Diagrams
 
+## Vertical Block Diagram
+
 ```mermaid
 ---
 config:
@@ -87,7 +89,14 @@ config:
     style SPRINT6 fill:#b9770e
 ```
 
+## Horizontal Block Diagram
+
 ```mermaid
+---
+config:
+  layout: elk
+  theme: dark
+---
   block-beta
     columns 4
     block:B1:1
@@ -98,7 +107,6 @@ config:
         A2(("&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
         A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       end
-      space
       block:B1CENTER
         columns 3
         space
@@ -114,9 +122,9 @@ config:
       end
       A1 -- "Meet team &</br>schedule</br>Kickoff" --> SPRINT1
       A2 -- "</br></br></br></br></br></br>Hold</br>Kickoff" --> SPRINT1
-      A3 ----> SPRINT1
-      A4 ----> SPRINT1
-      A5 ----> SPRINT1
+      A3 -- "Update</br>readme.md</br>team list" --> SPRINT1
+      A4 -- "Choose project &</br>define vision stmt." --> SPRINT1
+      A5 -- "Define &</br>prioritize features" --> SPRINT1
     end
 
     block:B2:1
