@@ -101,9 +101,8 @@ config:
         SPRINT1("Sprint 1&nbsp;")
       end
       block:B1BOTTOM
-        A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;&nbsp;"))
-        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;&nbsp;"))
-        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;&nbsp;"))
+        A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;&nbsp;"))
+        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;&nbsp;"))
       end
       A1 ----> SPRINT1
       A2 ----> SPRINT1
@@ -122,7 +121,7 @@ config:
         SPRINT2("Sprint 2")
       end
       block:B2BOTTOM
-        A8(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;&nbsp;"))
+        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;&nbsp;"))
       end
       A6 ----> SPRINT2
       A7 ----> SPRINT2
