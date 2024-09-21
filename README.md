@@ -153,8 +153,8 @@ config:
         A8(("&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
         space
       end
-      A6 -- "Create Product Backlog" --> SPRINT2
-      A7 -- "Create Wireframe" --> SPRINT2
+      A6 -- "Create</br>Product</br>Backlog" --> SPRINT2
+      A7 -- "Create</br>Wireframe" --> SPRINT2
       A8 -- "Define team workflow" --> SPRINT2
     end
 
