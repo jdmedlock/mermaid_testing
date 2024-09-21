@@ -163,7 +163,6 @@ config:
       block:B4CENTER
         columns 3
         SPRINT6("Sprint 6")
-        space
       end
       space
       A10 ----> SPRINT6
