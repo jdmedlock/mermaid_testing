@@ -147,6 +147,7 @@ config:
     block:B3:1
       columns 1
       block:B3TOP
+        columns 1
         A9(("&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
       end
       space
