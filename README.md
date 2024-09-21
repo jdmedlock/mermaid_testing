@@ -140,8 +140,6 @@ config:
       end
       space
       space
-      space
-      space
       block:B2CENTER
         columns 3
         space
@@ -155,9 +153,9 @@ config:
         A8(("&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
         space
       end
-      A6 ----> SPRINT2
-      A7 ----> SPRINT2
-      A8 ----> SPRINT2
+      A6 -- "Create Product Backlog" --> SPRINT2
+      A7 -- "Create Wireframe" --> SPRINT2
+      A8 -- "Define team workflow" --> SPRINT2
     end
 
     block:B3:1
@@ -178,7 +176,7 @@ config:
       end
       space
       space
-      A9 ----> SPRINTS35
+      A9 -- "Design, code, test & deploy" --> SPRINTS35
     end
 
     block:B4:1
@@ -197,7 +195,7 @@ config:
         space
       end
       space
-      A10 ----> SPRINT6
+      A10 -- "Project Closure" --> SPRINT6
     end
 
     SPRINT1 --> SPRINT2
