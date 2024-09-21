@@ -91,6 +91,7 @@ config:
   block-beta
     columns 4
     block:B1:1
+      columns 1
       block:ANNOTATIONS
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;&nbsp;"))
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;&nbsp;"))
