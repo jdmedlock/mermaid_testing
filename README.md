@@ -91,7 +91,15 @@ config:
   block-beta
     columns 4
     block:B1:1
+      block:ANNOTATIONS
+        A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;&nbsp;"))
+        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;&nbsp;"))
+        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;&nbsp;"))
+      end
       SPRINT1("Sprint 1&nbsp;")
+      A1 ----> SPRINT1
+      A2 ----> SPRINT1
+      A3 ----> SPRINT1
     end
     block:B2:1
       SPRINT2("Sprint 2")
@@ -102,7 +110,9 @@ config:
     block:B4:1
       SPRINT6("Sprint 6")
     end
+
     SPRINT1 --> SPRINT2
     SPRINT2 --> SPRINT35
     SPRINT35 --> SPRINT6
+
 ```
