@@ -159,7 +159,6 @@ config:
       block:B4TOP
         A10(("10"))
       end
-      space
       block:B4CENTER
         columns 3
         SPRINT6("Sprint 6")
