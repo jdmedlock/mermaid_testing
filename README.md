@@ -164,7 +164,6 @@ config:
         columns 3
         space
         SPRINT6("Sprint 6")
-        space
       end
       space
       A10 ----> SPRINT6
