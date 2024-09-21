@@ -116,6 +116,7 @@ config:
         space
       end
       space
+      space
       block:B1BOTTOM
         columns 3
         A4(("&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
