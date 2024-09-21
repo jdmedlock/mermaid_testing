@@ -93,16 +93,16 @@ config:
     block:B1:1
       columns 1
       block:B1TOP
-        A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;&nbsp;"))
-        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;&nbsp;"))
-        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;&nbsp;"))
+        A1(("&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
+        A2(("&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+        A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       end
       block:B1CENTER
         SPRINT1("Sprint 1&nbsp;")
       end
       block:B1BOTTOM
-        A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;&nbsp;"))
-        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;&nbsp;"))
+        A4(("&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
+        A5(("&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       end
       A1 ----> SPRINT1
       A2 ----> SPRINT1
@@ -114,14 +114,14 @@ config:
     block:B2:1
       columns 1
       block:B2TOP
-        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;&nbsp;"))
-        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;&nbsp;"))
+        A6(("&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
+        A7(("&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end
       block:B2CENTER
         SPRINT2("Sprint 2")
       end
       block:B2BOTTOM
-        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;&nbsp;"))
+        A8(("&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
       end
       A6 ----> SPRINT2
       A7 ----> SPRINT2
@@ -131,7 +131,7 @@ config:
     block:B3:1
       columns 1
       block:B3TOP
-        A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;&nbsp;"))
+        A9(("&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
       end
       block:B3CENTER
         SPRINTS35("Sprint 3-5")
@@ -146,7 +146,7 @@ config:
     block:B4:1
       columns 1
       block:B4TOP
-        A10(("&nbsp;&nbsp;&nbsp; 10 &nbsp;&nbsp;&nbsp;"))
+        A10(("&nbsp;&nbsp; 10 &nbsp;&nbsp;"))
       end
       block:B4CENTER
         SPRINT6("Sprint 6")
