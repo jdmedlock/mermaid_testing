@@ -153,7 +153,7 @@ config:
     end
 
     SPRINT1 --> SPRINT2
-    SPRINT2 --> SPRINT35
-    SPRINT35 --> SPRINT6
+    SPRINT2 --> SPRINTS35
+    SPRINTS35 --> SPRINT6
 
 ```
