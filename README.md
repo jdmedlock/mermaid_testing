@@ -111,6 +111,7 @@ config:
       block:B1CENTER
         columns 3
         space
+        space
         SPRINT1("&nbsp;Sprint 1&nbsp;")
         space
       end
