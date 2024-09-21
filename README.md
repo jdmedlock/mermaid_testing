@@ -113,7 +113,7 @@ config:
         A5(("&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       end
       A1 -- "Meet team &</br>schedule</br>Kickoff" --> SPRINT1
-      A2 -- "Hold</br>Kickoff" --> SPRINT1
+      A2 -- "</br></br>Hold</br>Kickoff" --> SPRINT1
       A3 ----> SPRINT1
       A4 ----> SPRINT1
       A5 ----> SPRINT1
