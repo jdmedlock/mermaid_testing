@@ -112,7 +112,7 @@ config:
         space
         A5(("&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       end
-      A1 -- "Meet team &</br>schedule</br>Kickoff mtg.--> SPRINT1
+      A1 -- "Meet team &</br>schedule</br>Kickoff mtg." --> SPRINT1
       A2 ----> SPRINT1
       A3 ----> SPRINT1
       A4 ----> SPRINT1
