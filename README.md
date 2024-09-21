@@ -118,8 +118,10 @@ config:
         A7(("&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end
       block:B2CENTER
+        columns 3
         space
-        SPRINT2("&nbsp;Sprint 2&nbsp;")
+        SPRINT2("Sprint 2")
+        space
       end
       block:B2BOTTOM
         A8(("&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
