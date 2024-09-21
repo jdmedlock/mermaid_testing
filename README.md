@@ -92,24 +92,47 @@ config:
     columns 4
     block:B1:1
       columns 1
-      block:ANNOTATIONS
+      block:B1TOP
         A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;&nbsp;"))
         A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;&nbsp;"))
         A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;&nbsp;"))
       end
-      block:S1
+      block:B1CENTER
         SPRINT1("Sprint 1&nbsp;")
+      end
+      block:B1BOTTOM
+        A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;&nbsp;"))
+        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;&nbsp;"))
+        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;&nbsp;"))
       end
       A1 ----> SPRINT1
       A2 ----> SPRINT1
       A3 ----> SPRINT1
+      A4 ----> SPRINT1
+      A5 ----> SPRINT1
     end
+
     block:B2:1
-      SPRINT2("Sprint 2")
+      columns 1
+      block:B2TOP
+        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;&nbsp;"))
+        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;&nbsp;"))
+      end
+      block:B2CENTER
+        SPRINT2("Sprint 2")
+      end
+      block:B2BOTTOM
+        A8(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;&nbsp;"))
+      end
+      A6 ----> SPRINT2
+      A7 ----> SPRINT2
+      A8 ----> SPRINT2
     end
+
     block:B3:1
       SPRINT35("Sprints 3-5")
     end
+
     block:B4:1
       SPRINT6("Sprint 6")
     end
