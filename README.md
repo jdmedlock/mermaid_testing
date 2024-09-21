@@ -152,9 +152,6 @@ config:
         space
       end
       space
-      block:B3BOTTOM
-
-      end
       A9 ----> SPRINTS35
     end
 
