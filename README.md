@@ -97,12 +97,14 @@ config:
         A2(("&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
         A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       end
+      space
       block:B1CENTER
         columns 3
         space
         SPRINT1("Sprint 1")
         space
       end
+      space
       block:B1BOTTOM
         A4(("&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
         A5(("&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
@@ -127,6 +129,7 @@ config:
         SPRINT2("Sprint 2")
         space
       end
+      space
       block:B2BOTTOM
         A8(("&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
       end
@@ -140,12 +143,14 @@ config:
       block:B3TOP
         A9(("&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
       end
+      space
       block:B3CENTER
         columns 3
         space
         SPRINTS35("Sprint 3-5")
         space
       end
+      space
       block:B3BOTTOM
         &nbsp;
       end
@@ -157,12 +162,14 @@ config:
       block:B4TOP
         A10(("&nbsp;&nbsp; 10 &nbsp;&nbsp;"))
       end
+      space
       block:B4CENTER
         columns 3
         space
         SPRINT6("Sprint 6")
         space
       end
+      space
       block:B4BOTTOM
         &nbsp;
       end
