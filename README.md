@@ -160,10 +160,10 @@ config:
       block:B4TOP
         A10(("&nbsp;&nbsp;10&nbsp;&nbsp;"))
       end
+      space
       block:B4CENTER
         columns 3
-        SPRINT6("Sprint 6")
-        space
+        SPRINT6("&nbsp;Sprint&nbsp;")
       end
       space
       A10 ----> SPRINT6
