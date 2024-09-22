@@ -103,9 +103,9 @@ config:
       columns 1
       block:B1TOP
         columns 3
-        A1(("&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
-        A2(("&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
-        A3(("&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
+        A1(("&nbsp;&nbsp;&nbsp; 1 &nbsp;&nbsp;"))
+        A2(("&nbsp;&nbsp;&nbsp; 2 &nbsp;&nbsp;"))
+        A3(("&nbsp;&nbsp;&nbsp; 3 &nbsp;&nbsp;"))
       end
       space
       space
