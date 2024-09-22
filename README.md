@@ -218,7 +218,7 @@ config:
     SPRINT2 --> SPRINTS35
     SPRINTS35 --> SPRINT6
 
-    style B1TOP fill:#383b3d
+    style B1TOP fill:292d30
 
     style A1 fill:#1d8348
     style A2 fill:#1d8348
