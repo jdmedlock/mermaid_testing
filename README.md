@@ -174,7 +174,7 @@ config:
       block:B3CENTER
         columns 3
         space
-        SPRINTS35("&nbsp;Sprint 3-5&nbsp;")
+        SPRINTS35(" Sprint 3-5 ")
         space
       end
       space
