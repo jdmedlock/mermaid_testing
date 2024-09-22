@@ -97,14 +97,6 @@ config:
   layout: elk
   theme: dark
 ---
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'edgeLabelBackground': '#292d30'
-    }
-  }
-}%%
   block-beta
     columns 4
     block:B1:1
