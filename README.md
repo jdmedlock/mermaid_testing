@@ -199,7 +199,6 @@ config:
         space
       end
       space
-      space
       A10 -- "Project Closure" --> SPRINT6
     end
 
