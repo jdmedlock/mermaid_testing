@@ -206,4 +206,19 @@ config:
     SPRINT1 --> SPRINT2
     SPRINT2 --> SPRINTS35
     SPRINTS35 --> SPRINT6
+
+      style A1 fill:#1d8348
+    style A2 fill:#1d8348
+    style A3 fill:#1d8348
+    style A4 fill:#1d8348
+    style A5 fill:#1d8348
+    style A6 fill:#1d8348
+    style A7 fill:#1d8348
+    style A8 fill:#1d8348
+    style A9 fill:#1d8348
+    style A10 fill:#1d8348
+    style SPRINT1 fill:#b9770e
+    style SPRINT2 fill:#b9770e
+    style SPRINTS35 fill:#b9770e
+    style SPRINT6 fill:#b9770e
 ```
