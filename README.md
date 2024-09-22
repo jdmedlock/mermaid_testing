@@ -183,7 +183,7 @@ config:
         space
         space
       end
-      A9 -- "Design, code, test & deploy" --> SPRINTS35
+      A9 -- "Design, code,</br>test & deploy" --> SPRINTS35
     end
 
     block:B4:1
