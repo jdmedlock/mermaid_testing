@@ -178,7 +178,10 @@ config:
         space
       end
       space
-      space
+      block:B3BOTTOM
+        columns 1
+        space
+      end
       A9 -- "Design, code, test & deploy" --> SPRINTS35
     end
 
@@ -199,7 +202,10 @@ config:
         space
       end
       space
-      space
+      block:B4BOTTOM
+        columns 1
+        space
+      end
       A10 -- "Project Closure" --> SPRINT6
     end
 
