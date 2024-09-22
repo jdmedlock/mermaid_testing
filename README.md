@@ -101,8 +101,7 @@ config:
   init: {
     'theme': 'base',
     'themeVariables': {
-      'edgeLabelBackground': '#292d30',
-      'secondarytextcolor': '#292d30'
+      'edgeLabelBackground': '#292d30'
     }
   }
 }%%
