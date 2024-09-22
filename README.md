@@ -119,9 +119,9 @@ config:
       space
       block:B1BOTTOM
         columns 3
-        A4(("&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
+        A4(("&nbsp;&nbsp;&nbsp; 4 &nbsp;&nbsp;"))
         space
-        A5(("&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
+        A5(("&nbsp;&nbsp;&nbsp; 5 &nbsp;&nbsp;"))
       end
       A1 -- "Meet team &</br>schedule</br>Kickoff" --> SPRINT1
       A2 -- "</br></br></br></br></br></br>Hold</br>Kickoff" --> SPRINT1
@@ -134,9 +134,9 @@ config:
       columns 1
       block:B2TOP
         columns 3
-        A6(("&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
+        A6(("&nbsp;&nbsp;&nbsp; 6 &nbsp;&nbsp;"))
         space
-        A7(("&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
+        A7(("&nbsp;&nbsp;&nbsp; 7 &nbsp;&nbsp;"))
       end
       space
       space
@@ -151,7 +151,7 @@ config:
       block:B2BOTTOM
         columns 3
         space
-        A8(("&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
+        A8(("&nbsp;&nbsp;&nbsp; 8 &nbsp;&nbsp;"))
         space
       end
       A6 -- "Create</br>Product</br>Backlog" --> SPRINT2
@@ -164,7 +164,7 @@ config:
       block:B3TOP
         columns 3
         space
-        A9(("&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
+        A9(("&nbsp;&nbsp;&nbsp; 9 &nbsp;&nbsp;"))
         space
       end
       space
@@ -191,7 +191,7 @@ config:
       block:B4TOP
         columns 3
         space
-        A10(("&nbsp;&nbsp;10&nbsp;"))
+        A10(("&nbsp;&nbsp;&nbsp;10&nbsp;"))
         space
       end
       space
