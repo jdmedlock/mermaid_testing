@@ -169,6 +169,7 @@ config:
       end
       space
       space
+      space
       block:B3CENTER
         columns 3
         space
