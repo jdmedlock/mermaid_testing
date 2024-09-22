@@ -169,13 +169,13 @@ config:
       end
       space
       space
-      space
       block:B3CENTER
         columns 3
         space
         SPRINTS35("&nbsp;Sprints 3-5&nbsp;")
         space
       end
+      space
       space
       space
       block:B3BOTTOM
