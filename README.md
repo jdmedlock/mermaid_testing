@@ -176,8 +176,6 @@ config:
         space
       end
       space
-      space
-      space
       block:B3BOTTOM
         columns 1
         space
