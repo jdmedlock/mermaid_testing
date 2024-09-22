@@ -193,8 +193,10 @@ config:
       space
       space
       block:B4CENTER
-        columns 1
+        columns 3
+        space
         SPRINT6("&nbsp;Sprint 6&nbsp;")
+        space
       end
       space
       space
