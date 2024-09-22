@@ -96,8 +96,16 @@ config:
 config:
   layout: elk
   theme: dark
-  secondarytextcolor: #292d30
 ---
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'edgeLabelBackground': '#292d30',
+      'secondarytextcolor': '#292d30'
+    }
+  }
+}%%
   block-beta
     columns 4
     block:B1:1
