@@ -96,6 +96,7 @@ config:
 config:
   layout: elk
   theme: dark
+  secondarytextcolor: #292d30
 ---
   block-beta
     columns 4
